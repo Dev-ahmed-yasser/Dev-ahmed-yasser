@@ -33,6 +33,6 @@
 
 <p> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ahmed-yasser&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ahmed-yasser" width="467"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ahmed-yasser&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ahmed-yasser" width="467"/>
 </p>
 
