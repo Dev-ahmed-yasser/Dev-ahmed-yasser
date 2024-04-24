@@ -28,14 +28,14 @@
 
 
 <p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ahmed-yasser&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ahmed-yasser" height="195"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ahmed-yasser&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dev-ahmed-yasser" height="175"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-ahmed-yasser&show_icons=true&theme=tokyonight&locale=en" alt="dev-ahmed-yasser"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-ahmed-yasser&show_icons=true&theme=tokyonight&locale=en" alt="dev-ahmed-yasser" height="175"/></p>
 
 
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ahmed-yasser&theme=tokyonight" alt="dev-ahmed-yasser" /></p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ahmed-yasser&theme=tokyonight" alt="dev-ahmed-yasser" height="175" /></p>
 
 
 
